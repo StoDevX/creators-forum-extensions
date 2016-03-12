@@ -3,3 +3,4 @@ A repo for all the extensions on the St Olaf Creators Forum
 
 Current available extensions:
 * **Markdown Cheatsheet** - puts some help text inside the text editor on how to use markdown
+* **Email Notifications** - turns email notifications on by default (whenever a new user registers)
